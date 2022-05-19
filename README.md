@@ -20,7 +20,7 @@ Projeto desenvolvido durante a trilha Impulse do Next Level Week #8 da [Rocketse
 - Aula 1 - Início do front-end web em React - Concluída. ✅
 - Aula 2 - Finalização do front-end web em React - Concluída. ✅
 - Aula 3 - Finalização do back-end, utilização do conceito SOLID e realização testes unitários. ✅
-- Aula 4 - Em construção 🚧
+- Aula 4 - Finalização do front-end mobile em React Native - Concluída. ✅
 - Aula 5 - Em construção 🚧
 
 ## Tecnologias utilizadas
@@ -48,12 +48,12 @@ Execute os seguintes comandos no seu terminal:
 
 ```bash
 # Clone o repositório
-$ git clone https://github.com/RenatoCostaF/NLW-Return-feedget.git
+$ git clone https://github.com/RenatoCostaF/NLW-Return-feedget-server.git
 # Entre no repositório
 $ cd feedget
 ```
 
-<!-- ### 📦 API
+### 📦 API
 ```bash
 # Entre na pasta do backend
 $ cd backend
@@ -66,31 +66,14 @@ $ yarn prisma migrate dev
 # Inicie o servidor
 $ yarn dev
 ```
-Acesse a API em http://localhost:4000 -->
+Acesse a API em http://localhost:4000 
 
 ### 💻 Web
+- [Clique aqui e entre no repositório e siga as instruções do README](https://github.com/RenatoCostaF/NLW-Return-feedget)
 
-```bash
-# Entre na pasta web
-$ cd web
-# Instale as dependências
-$ npm install
-# Execute a aplicação
-$ npm run dev
-```
-Acesse em seu navegador http://localhost:3000/ para ver o resultado.
 
-<!-- ### 📱 Mobile
-> Para utilizar o servidor com a aplicação mobile, é necessário criar uma conta no [Expo](https://expo.dev/), criar um projeto com o nome `nlwheatapp` e colocar https://auth.expo.io/@[seu-user]/nlwheatapp nos campos "Homepage URL" e "Authorization callback URL" do seu OAuth App
-```bash
-# Entre na pasta mobile
-$ cd mobile
-# Instale as dependências
-$ yarn
-# Execute a aplicação
-$ expo start
-```
-Para ver o resultado da versão mobile você precisa de um smartphone com o aplicativo [Expo](https://play.google.com/store/apps/details?id=host.exp.exponent) instalado ou um emulador android/ios.
-Depois de executar a aplicação, leia o QRCode pelo aplicativo. -->
+ ### 📱 Mobile
+- [Clique aqui e entre no repositório e siga as instruções do README](https://github.com/RenatoCostaF/NLW-Return-feedget-mobile)
+
 
 
